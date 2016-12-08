@@ -1,0 +1,28 @@
+{
+  "name": "ts-jest",
+  "version": "0.0.0",
+  "description": "Internal course about TypeScript for DataArt educational portal",
+  "scripts": {
+    "doc": "doctoc ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Igmat/TypeScript-DataArt-Course.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Ihor Chulinda <ichulinda@gmail.com> (https://github.com/Igmat)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Igmat/TypeScript-DataArt-Course/issues"
+  },
+  "homepage": "https://github.com/Igmat/TypeScript-DataArt-Course#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "tslint": "latest",
+    "doctoc": "latest"
+  }
+}
